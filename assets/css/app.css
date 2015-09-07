@@ -4,16 +4,8 @@ body {
   background-color: #333;
 
 }
-
-/*
- * Override Bootstrap's default container.
- */
-
-@media (min-width: 1200px) {
-  .container {
-    width: 970px;
+.container {
+    width: 750px;
     background-color: #fff;
     border-radius: 10px;
-  }
 }
-
